@@ -4,7 +4,7 @@ ProxyPult is your own local proxy network with hundreds of rotating unique IPs, 
 💰 Payment is accepted in cryptocurrency only.
 
 Constant Proxy Pool Updates:
-At each start and every new checking cycle, ProxyPult loads a freshly verified list of proxies from a remote server. You get dozens of proxy list updates daily, always having more than 300 unique IPs available.
+At each start and every new checking cycle, ProxyPult loads a freshly verified list of proxies from a remote server. You get dozens of proxy list updates daily, always having more than 500 unique IPs available.
 
 Flexible Proxy Checking (Checker):
 Set any website or resource for checking and define rules based on the response to determine proxy validity.
